@@ -24,6 +24,11 @@ A beginner JavaScript project that collects student details using prompt() and d
 - if/else Conditions
 - document.write()
 
+
+
+  <img width="1919" height="787" alt="image" src="https://github.com/user-attachments/assets/2b31a132-98fb-45a8-9e30-5e8f02b00b97" />
+
+
 ## Author
 
 Rishma
