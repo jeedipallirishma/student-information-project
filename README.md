@@ -1,28 +1,26 @@
 # Student Information Project
 
-A beginner JavaScript project that collects student details using prompt() and displays the result.
+A beginner JavaScript project that collects student details and checks pass/fail status.
 
 ## Features
-
-- Takes student name as input
-- Takes college name as input
-- Takes section/class as input
-- Takes marks as input
-- Displays entered information
-- Checks Pass/Fail status
+- Student name input
+- College name input
+- Section input
+- Marks input
+- Pass/Fail result generation
 
 ## Technologies Used
-
 - HTML
 - JavaScript
 
 ## Concepts Practiced
-
 - Variables
 - Data Types
 - prompt()
-- if/else Conditions
+- if/else statements
 - document.write()
+
+
 
 
 <img width="1912" height="1064" alt="Screenshot 2026-06-02 175904" src="https://github.com/user-attachments/assets/52c06f90-3e31-4bc3-a20c-7ce794d50f1d" />
@@ -31,5 +29,4 @@ A beginner JavaScript project that collects student details using prompt() and d
 
 
 ## Author
-
-Rishma
+Jeedipalli Rishma
